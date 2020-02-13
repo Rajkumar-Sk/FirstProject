@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/C:/Users/839870/Desktop/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/839870/Documents/Eclipse%20Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Internship_Java/Eclipse%20IDE%20for%20Java%20EE%20Developers.4.7.0%20-%2064/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/839870/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/C:/Users/839870/Documents/Eclipse%20Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/839870/Desktop/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/839870/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Internship_Java/Eclipse%20IDE%20for%20Java%20EE%20Developers.4.7.0%20-%2064/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
